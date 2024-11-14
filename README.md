@@ -4,7 +4,7 @@
 - 💞️ I’m looking to collaborate on new projects or those already in completion
 - 📫 How to reach me via e-mail: reis.ita@hotmail.com
 - 😄 Pronouns:
-- ⚡ Fun fact: Discover the details.
+- ⚡ Fun fact: Discover the details, I live in the city of São Paulo.
 
 <!---
 ItamaReis/ItamaReis is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
